@@ -11,20 +11,13 @@
       "password": "$2b$12$C1tvWLWGLOMxTgmOl.EaBuk4mU2.w9GAcrFi/RK.orFY3C8iySoLC",
       "banned": false,
       "logs":"false",
-      "expiration_date": "2023-09-30T00:00:00"
-  },
-  {
-      "username": "ireavoes",
-      "password": "$2b$12$Bwxbr7l.1Wy./yu/gACasepG4hUdYo7Pf5AAa9K7uMtQNh/S92l32",
-      "banned": false,
-      "logs":"false",
       "expiration_date": "2025-09-30T00:00:00"
   },
   {
-      "username": "ShxDeS",
-      "password": "$2b$12$D.0WfMgj8DMOpSfXBwbHgOaKPD5H45/s/5ZEN4iCB2.c7tjoayXoe",
+      "username": "3omda",
+      "password": "$2b$12$BrTBi9bkNEGyZG6DrTP6c.WkFfM3B1/OOjsv.QtKHBlPNQnlSHeJq",
       "banned": false,
       "logs":"false",
-      "expiration_date": "2025-09-30T00:00:00"
+      "expiration_date": "2025-01-1T00:00:00"
   }
 ]
