@@ -16,7 +16,7 @@
   {
       "username": "3omda",
       "password": "$2b$12$BrTBi9bkNEGyZG6DrTP6c.WkFfM3B1/OOjsv.QtKHBlPNQnlSHeJq",
-      "banned": false,
+      "banned": true,
       "logs":"true",
       "expiration_date": "2025-01-1T00:00:00"
   }
